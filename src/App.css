@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/* section {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  font-size: 32px;
+  font-weight: bold;
+} */
+
+
+
+
+.active {
+  font-weight: 900;
+}
