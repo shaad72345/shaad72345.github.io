@@ -1,5 +1,7 @@
 import swiggy from './swiggy.png'
 import BlueflyClone from './BlueflyClone.png'
+import Quora from './QuoraAppPic.jpg'
+import RoarApp from './RoarAppPic.jpg'
 // import todo from './todo.PNG'
 export const techstack = [
     {
@@ -57,6 +59,23 @@ export const projects = [
         url: "https://voluble-custard-cbe365.netlify.app/index.html"
     },
     {
+        img: RoarApp,
+        title: "Roar App Full Stack Project",
+        desc: "A simple Full Stack Application where we can upload posts with pics by singingup and login.",
+        techstack: ['HTML', "CSS", "JavaScript", "React", "Node JS", "Express","MongoDB","JWT"],
+        github: "https://github.com/shaad72345/RoarApp",
+        url: "https://roar-app-three.vercel.app/"
+    },
+    {
+        img: Quora,
+        title: "Quora Clone",
+        desc: "An app where we can post questions and anybody answer.",
+        techstack: ['HTML', "CSS", "JavaScript", "React", "Node JS", "Express","FireBaseAuth"],
+        github: "https://github.com/shaad72345/QuoraSignuplogin",
+        url: "https://quora-signuplogin.vercel.app/"
+    },
+    {
+    
         img: BlueflyClone,
         title: "Blufly Clone",
         desc: "BlueFly is US based E-Commerce shopping Website. It offers exclusive brand products at dicounted price. ",
@@ -64,12 +83,5 @@ export const projects = [
         github: "https://github.com/hasbealam/Bluefly",
         url: "https://incredible-druid-05c75a.netlify.app/index.html"
     },
-    // {
-    //     img: todo,
-    //     title: "Quora Clone",
-    //     desc: "A simple todo application is a software that helps users keep track of tasks or activities that need to be completed.",
-    //     techstack: ['HTML', "CSS", "JavaScript", "React", "Node JS", "Express"],
-    //     github: "https://github.com/Manojkumar7978/simpletodo",
-    //     url: "https://drive.google.com/file/d/16V0YhQpAxITMchEAPe5M64MFT8RvxNv8/view?usp=sharing"
-    // }
+   
 ]

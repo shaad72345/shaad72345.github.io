@@ -15,8 +15,8 @@ const Skills = () => {
                             {
                                 techstack.map((el, ind) => {
                                     return <Box class="skills-card" cursor={'pointer'} _hover={{ boxShadow: 'xl', bg: 'whiteAlpha.800', transition: 'transform 0.5s', transform: 'scale(1.1)' }} height={'160px'} borderRadius={10} boxShadow={'md'} bg={'white'} p={3} maxW={'130px'} >
-                                        <Image className="skills-card-img" width={'full'} src={el.img} />
-                                        <Text className="skills-card-name" textAlign={'center'} fontWeight={'bold'} mt={2}>{el.name}</Text>
+                                           <Image className="skills-card-img" width={'full'} src={el.img} />
+                                           <Text className="skills-card-name" textAlign={'center'} fontWeight={'bold'} mt={2}>{el.name}</Text>
 
                                     </Box>
                                 })
