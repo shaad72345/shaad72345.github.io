@@ -39,16 +39,16 @@ const About = () => {
             width={"90%"}
             m={"auto"}
           >
-            The individual is a highly adaptable and quick-learning full-stack
-            developer with a passion for staying up-to-date with the latest
-            technologies full Stack  tech express node technology and trends. They have a proven track record of
-            effectively and efficiently adapting to changing requirements and
-            implementing new solutions with ease. The individual is eager to
-            apply their skills and expertise to contribute to the success of an
-            organization, while also enhancing their skills and knowledge in a
-            dynamic team environment. Their focus on contributing to the
-            company's growth and success makes them a valuable asset to any
-            team.
+            Highly adaptable and quick-learning full-stack developer with a
+            passion for staying up-to-date with the latest technologies and
+            trends. A proven track record of effectively and efficiently
+            adapting to changing requirements and implementing new solutions
+            with ease. Seeking an opportunity to apply my skills and contribute
+            to a dynamic team in a challenging and growth-oriented
+            environment.Expertise in front-end technologies like JavaScript,
+            React, HTML, and CSS. Also skilled in back-end technologies such as
+            Node.js, Express, and MongoDB. These technology stack enables to
+            build dynamic and responsive full-stack applications.
           </Text>
         </Box>
       </Box>
