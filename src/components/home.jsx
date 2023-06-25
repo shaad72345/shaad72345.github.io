@@ -45,12 +45,12 @@ const Home = () => {
           <TypeWriter />
           <Flex mt={2}>
             <Button
+              id="resume-button-2"
               colorScheme="teal"
               variant="solid"
               _hover={{ textDecoration: "none", bg: "teal" }}
               as={Link}
               target="_blank"
-              id="resume-button-2"
               href={Mohammad_Shaad_Resume}
               download={true}
               rightIcon={<ViewIcon />}

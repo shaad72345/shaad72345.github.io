@@ -3,7 +3,8 @@ import { Button, Link } from '@chakra-ui/react';
 import Mohammad_Shaad_Resume from '../Mohammad_Shaad_Resume.pdf'
 const onClickhandler = () => {
     return window.open(
-        "https://drive.google.com/file/d/1uVGXl8eiB1OcnnxMP7ZsJkdW6nI0FR9e/view?usp=drive_link"
+        "https://drive.google.com/file/d/1uVGXl8eiB1OcnnxMP7ZsJkdW6nI0FR9e/view?usp=drive_link",
+        "_blank"
     );
 };
 
