@@ -43,7 +43,7 @@ const Navbar = () => {
             }}
           >
             <Link
-              class="nav-link home"
+              className="nav-link home"
               activeClass="active"
               smooth
               spy
