@@ -51,6 +51,15 @@ export const techstack = [
 
 export const projects = [
     {
+        img: Quora,
+        title: "Quora Clone Full Stack Project",
+        desc: "An app where we can post questions and anybody answer.",
+        techstack: ['HTML', "CSS", "JavaScript", "React", "Node JS", "Express","FireBaseAuth","MongoDB","JWT","Chakra UI"],
+        github: "https://github.com/shaad72345/QuoraSignuplogin",
+        url: "https://quora-frontend-nine.vercel.app/"
+    },
+    {
+        
         img: swiggy,
         title: "Swiggy Clone",
         desc: "Swiggy website clone provides a reliable and convenient food delivery experience, allowing users to browse restaurants, order food, and track their delivery in real-time. ",
@@ -66,14 +75,7 @@ export const projects = [
         github: "https://github.com/shaad72345/RoarApp",
         url: "https://roar-app-three.vercel.app/"
     },
-    {
-        img: Quora,
-        title: "Quora Clone",
-        desc: "An app where we can post questions and anybody answer.",
-        techstack: ['HTML', "CSS", "JavaScript", "React", "Node JS", "Express","FireBaseAuth"],
-        github: "https://github.com/shaad72345/QuoraSignuplogin",
-        url: "https://quora-signuplogin.vercel.app/"
-    },
+   
     {
     
         img: BlueflyClone,
