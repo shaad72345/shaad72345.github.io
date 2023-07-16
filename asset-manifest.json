@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.8b72c3f0.css",
-    "main.js": "/static/js/main.bc252e09.js",
+    "main.js": "/static/js/main.a78bbc97.js",
     "static/js/787.0798dcbb.chunk.js": "/static/js/787.0798dcbb.chunk.js",
     "static/media/swiggy.png": "/static/media/swiggy.6e409e72d2615bd3f931.png",
     "static/media/BlueflyClone.png": "/static/media/BlueflyClone.661e3acc971b87225394.png",
-    "static/media/Mohammad_Shaad_Resume.pdf": "/static/media/Mohammad_Shaad_Resume.1644b5c9ed54ae856980.pdf",
+    "static/media/Mohammad_Shaad_Resume.pdf": "/static/media/Mohammad_Shaad_Resume.0bf5a8b8f9d417f67a4f.pdf",
     "static/media/QuoraAppPic.jpg": "/static/media/QuoraAppPic.c5bca1e2362e756c5489.jpg",
     "static/media/RoarAppPic.jpg": "/static/media/RoarAppPic.5150bbabe3570261356c.jpg",
     "static/media/image.jpg": "/static/media/image.0b4c8d86d3b271fa4b76.jpg",
     "index.html": "/index.html",
     "main.8b72c3f0.css.map": "/static/css/main.8b72c3f0.css.map",
-    "main.bc252e09.js.map": "/static/js/main.bc252e09.js.map",
+    "main.a78bbc97.js.map": "/static/js/main.a78bbc97.js.map",
     "787.0798dcbb.chunk.js.map": "/static/js/787.0798dcbb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b72c3f0.css",
-    "static/js/main.bc252e09.js"
+    "static/js/main.a78bbc97.js"
   ]
 }
