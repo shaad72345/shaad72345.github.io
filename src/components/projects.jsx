@@ -36,7 +36,7 @@ const Projects = () => {
               <Box
                 key={ind}
                 mb={10}
-                h={{ lg: "300px" }}
+                h={{ lg: "335px" }}
                 border={"2px solid teal"}
                 bg="white"
                 style={{

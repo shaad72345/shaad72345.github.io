@@ -54,9 +54,9 @@ export const projects = [
         img: Quora,
         title: "Quora Clone Full Stack Project",
         desc: "An app where we can post questions and anybody answer.",
-        techstack: ['HTML', "CSS", "JavaScript", "React", "Node JS", "Express","FireBaseAuth","MongoDB","JWT","Chakra UI"],
+        techstack: ['HTML', "CSS", "JavaScript", "React", "Node JS", "Express","MongoDB","JWT","Chakra UI"],
         github: "https://github.com/shaad72345/QuoraSignuplogin",
-        url: "https://quora-frontend-nine.vercel.app/"
+        url: "https://shaadquoracloneapp.netlify.app/"
     },
     {
         
