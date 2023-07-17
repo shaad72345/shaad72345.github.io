@@ -6,7 +6,7 @@ import Mohammad_Shaad_Resume from "./Mohammad_Shaad_Resume.pdf";
 import pic from "./image.jpg";
 const onClickhandler = () => {
   return window.open(
-    "https://drive.google.com/file/d/1rskDUPsCBYGBbx4TtEgoaDg0EIQbbaZ3/view?usp=drive_link",
+    "https://drive.google.com/file/d/1VsLWwmNoi4bynW0p9sOXHMSWrj9oi3l6/view?usp=sharing",
     "_blank"
   );
 };
